@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/demo-finkraft-asgnmt/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/demo-finkraft-asgnmt/static/js/main.46c956e6.chunk.js",
-    "main.js.map": "/demo-finkraft-asgnmt/static/js/main.46c956e6.chunk.js.map",
-    "runtime-main.js": "/demo-finkraft-asgnmt/static/js/runtime-main.71487621.js",
-    "runtime-main.js.map": "/demo-finkraft-asgnmt/static/js/runtime-main.71487621.js.map",
-    "static/js/2.19f334c9.chunk.js": "/demo-finkraft-asgnmt/static/js/2.19f334c9.chunk.js",
-    "static/js/2.19f334c9.chunk.js.map": "/demo-finkraft-asgnmt/static/js/2.19f334c9.chunk.js.map",
+    "main.js": "/demo-finkraft-asgnmt/static/js/main.1c72f4d2.chunk.js",
+    "main.js.map": "/demo-finkraft-asgnmt/static/js/main.1c72f4d2.chunk.js.map",
+    "runtime-main.js": "/demo-finkraft-asgnmt/static/js/runtime-main.8369fa31.js",
+    "runtime-main.js.map": "/demo-finkraft-asgnmt/static/js/runtime-main.8369fa31.js.map",
+    "static/js/2.96ed01c2.chunk.js": "/demo-finkraft-asgnmt/static/js/2.96ed01c2.chunk.js",
+    "static/js/2.96ed01c2.chunk.js.map": "/demo-finkraft-asgnmt/static/js/2.96ed01c2.chunk.js.map",
     "static/css/3.20aa2d7b.chunk.css": "/demo-finkraft-asgnmt/static/css/3.20aa2d7b.chunk.css",
-    "static/js/3.a01fd93b.chunk.js": "/demo-finkraft-asgnmt/static/js/3.a01fd93b.chunk.js",
-    "static/js/3.a01fd93b.chunk.js.map": "/demo-finkraft-asgnmt/static/js/3.a01fd93b.chunk.js.map",
+    "static/js/3.83c6207a.chunk.js": "/demo-finkraft-asgnmt/static/js/3.83c6207a.chunk.js",
+    "static/js/3.83c6207a.chunk.js.map": "/demo-finkraft-asgnmt/static/js/3.83c6207a.chunk.js.map",
     "static/js/4.8cb24fab.chunk.js": "/demo-finkraft-asgnmt/static/js/4.8cb24fab.chunk.js",
     "static/js/4.8cb24fab.chunk.js.map": "/demo-finkraft-asgnmt/static/js/4.8cb24fab.chunk.js.map",
     "static/js/5.a767f52b.chunk.js": "/demo-finkraft-asgnmt/static/js/5.a767f52b.chunk.js",
@@ -19,16 +19,16 @@
     "index.html": "/demo-finkraft-asgnmt/index.html",
     "static/css/3.20aa2d7b.chunk.css.map": "/demo-finkraft-asgnmt/static/css/3.20aa2d7b.chunk.css.map",
     "static/css/main.ab7136cd.chunk.css.map": "/demo-finkraft-asgnmt/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.19f334c9.chunk.js.LICENSE.txt": "/demo-finkraft-asgnmt/static/js/2.19f334c9.chunk.js.LICENSE.txt",
-    "static/js/3.a01fd93b.chunk.js.LICENSE.txt": "/demo-finkraft-asgnmt/static/js/3.a01fd93b.chunk.js.LICENSE.txt",
+    "static/js/2.96ed01c2.chunk.js.LICENSE.txt": "/demo-finkraft-asgnmt/static/js/2.96ed01c2.chunk.js.LICENSE.txt",
+    "static/js/3.83c6207a.chunk.js.LICENSE.txt": "/demo-finkraft-asgnmt/static/js/3.83c6207a.chunk.js.LICENSE.txt",
     "static/js/4.8cb24fab.chunk.js.LICENSE.txt": "/demo-finkraft-asgnmt/static/js/4.8cb24fab.chunk.js.LICENSE.txt",
     "static/js/5.a767f52b.chunk.js.LICENSE.txt": "/demo-finkraft-asgnmt/static/js/5.a767f52b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.71487621.js",
+    "static/js/runtime-main.8369fa31.js",
     "static/css/3.20aa2d7b.chunk.css",
-    "static/js/3.a01fd93b.chunk.js",
+    "static/js/3.83c6207a.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.46c956e6.chunk.js"
+    "static/js/main.1c72f4d2.chunk.js"
   ]
 }
